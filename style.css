@@ -482,6 +482,12 @@ i.fa-envelope::after {
     background-color: beige;
 }
 
+.post-time {
+    position: absolute;
+    left: 140px;
+    top: 80px;
+}
+
 
 /*  */
 
